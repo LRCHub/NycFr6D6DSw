@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "春日影 (MyGO!!!!! ver.)",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-06T02:45:19.827035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春日影 - MyGO!!!!! ver.",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_春日影_-_MyGO!!!!!_ver._MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春日影",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_春日影_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春日影 (MyGO!!!!! ver.) - Haruhikage (MyGO!!!!! ver.)",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_春日影_(MyGO!!!!!_ver.)_-_Haruhikage_(MyGO!!!!!_ver.)_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春日影 (MyGO!!!!! ver.)",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_春日影_(MyGO!!!!!_ver.)_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春日影",
+      "artist": "CRYCHIC",
+      "has_synced": true,
+      "path": "select/05_春日影_CRYCHIC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春日影 - From THE FIRST TAKE",
+      "artist": "CRYCHIC",
+      "has_synced": true,
+      "path": "select/06_春日影_-_From_THE_FIRST_TAKE_CRYCHIC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春日影",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_春日影_MyGO!!!!!.txt"
+    }
+  ]
+}
